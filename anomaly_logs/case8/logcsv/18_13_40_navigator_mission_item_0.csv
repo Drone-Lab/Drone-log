@@ -1,0 +1,5 @@
+timestamp,latitude,longitude,time_inside,acceptance_radius,loiter_radius,yaw,altitude,sequence_current,nav_cmd,frame,origin,loiter_exit_xtrack,force_heading,altitude_is_relative,autocontinue,vtol_back_transition
+1777227283465000,47.399387,8.545594,0.0,2.0,80.0,0.020997645,518.01953,0,31,1,0,0,0,0,1,0
+1777227291541000,47.39867,8.545594,0.0,2.0,80.0,nan,518.01953,1,16,1,0,0,0,0,1,0
+1777227309733000,47.39867,8.545594,0.0,2.0,80.0,-0.0018351098,488.01956,7,21,1,0,0,0,0,1,0
+1777227338461000,47.39867,8.545594,0.0,2.0,80.0,nan,488.01956,8,0,1,0,0,0,0,1,0

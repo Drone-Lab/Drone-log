@@ -1,0 +1,4 @@
+timestamp,instance,get_count,set_count,find_count,export_count,active,changed,custom_default
+1777225795013000,70,70565,14,13397,5,873,31,36
+1777225839693000,71,2893,1,3150,0,876,31,36
+1777225839833000,72,3728,2,3235,0,876,31,36

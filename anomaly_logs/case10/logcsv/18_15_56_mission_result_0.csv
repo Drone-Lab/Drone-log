@@ -1,0 +1,4 @@
+timestamp,mission_id,geofence_id,home_position_counter,seq_reached,seq_current,seq_total,item_changed_index,item_do_jump_remaining,valid,warning,finished,failure,item_do_jump_changed,execution_mode
+1777227355773000,2856735839,535146369,107,-1,1,5,0,0,1,0,0,0,0,0
+1777227358073000,2856735839,535146369,107,-1,1,5,0,0,1,0,0,0,0,0
+1777227402313000,2856735839,0,109,-1,1,5,0,0,1,0,0,0,0,0
