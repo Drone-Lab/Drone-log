@@ -1,6 +1,0 @@
-timestamp,instance_count,seq_reached,seq_current,seq_total,item_changed_index,item_do_jump_remaining,valid,warning,finished,failure,item_do_jump_changed,execution_mode
-1777316750182000,1,-1,0,0,0,0,0,0,0,0,0,0
-1777316767434000,2,-1,0,0,0,0,0,0,0,0,0,0
-1777316770858000,2,-1,0,0,0,0,0,0,0,0,0,0
-1777316782150000,2,-1,0,0,0,0,0,0,1,0,0,0
-1777316782162000,2,-1,0,0,0,0,0,0,1,0,0,0

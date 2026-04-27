@@ -18,7 +18,7 @@ Scenario steps:
 Expected behavior: The latest 50 m fence should be used to reject waypoints located at 75 m.
 
 Abnormal signals:
-- The mission is accepted and the vehicle flies toward 75 m.
+- The mission point outside the inclusion geofence is accepted
 - No feasibility-check failure message is shown.
 
 Fields to watch: upload_mission_waypoints return value, current_flight_mode, current_waypoint, STATUSTEXT.
